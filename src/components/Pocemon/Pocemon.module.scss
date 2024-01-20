@@ -1,0 +1,15 @@
+
+.pocemon {
+    background-color: #9DDDF8;
+    padding: 20px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+
+    gap: 30px;
+
+    .pocemon__img {
+        width: 100px;
+        height: 100px;
+    }
+}
